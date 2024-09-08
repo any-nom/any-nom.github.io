@@ -3,9 +3,9 @@ author: Any Nom
 name: any-nom
 email: anonynomsly@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  I am interested in solving two problems of intelligence. First, how brain solve seemingly intelligence problems across variety of species and how brain structure limits this. 
+  I am intrigued by two fundamental questions of intelligence. First, how brain solve seemingly general intelligence problems across variety of species and what constraints does brain structure impose on cognitive abilities. 
   Second, evolution of artificial neural networks and different algorithms to make them learn and perform a variety of tasks needs a general theory by which these network learn and perform different cognitive tasks 
-  such as natural language understanding, vision etc.
+  such as natural language understanding, sensory-motor transformation tasks etc.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
