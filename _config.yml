@@ -1,11 +1,11 @@
-title: Computational Neuroscience
+title: Scith
 author: Any Nom
 name: any-nom
 email: anonynomsly@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am interested in solving two problems of intelligence. First, how brain solve seemingly intelligence problems across variety of species and how brain structure limits this. 
+  Second, evolution of artificial neural networks and different algorithms to make them learn and perform a variety of tasks needs a general theory by which these network learn and perform different cognitive tasks 
+  such as natural language understanding, vision etc.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
